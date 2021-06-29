@@ -1,0 +1,281 @@
+file_name;a–o;MSPA-class_color;FGdata_pixels_porc;BGarea
+mb_full_2000_8_1_1_1.txt;2000;CORE(s) [green];--/--;0
+mb_full_2000_8_1_1_1.txt;2000;CORE(m) [green];90.22/50.84;851358
+mb_full_2000_8_1_1_1.txt;2000;CORE(l) [green];--/--;0
+mb_full_2000_8_1_1_1.txt;2000;ISLET [brown];0.49/ 0.27;480492
+mb_full_2000_8_1_1_1.txt;2000;PERFORATION [blue];2.88/ 1.62;353580
+mb_full_2000_8_1_1_1.txt;2000;EDGE [black];4.66/ 2.63;643827
+mb_full_2000_8_1_1_1.txt;2000;LOOP [yellow];0.00/ 0.00;0
+mb_full_2000_8_1_1_1.txt;2000;BRIDGE [red];0.37/ 0.21;685362
+mb_full_2000_8_1_1_1.txt;2000;BRANCH [orange];1.39/ 0.78;4045712
+mb_full_2000_8_1_1_1.txt;2000;Background [grey];--/43.64;1000862/652335713
+mb_full_2000_8_1_1_1.txt;2000;Missing [white];45.38;129/1242037590
+mb_full_2000_8_1_1_1.txt;2000;Opening [grey];84.52 Integrity;999223/154252104
+mb_full_2000_8_1_1_1.txt;2000;Core-Opening [darkgrey];--/ 6.08;720305/90945120
+mb_full_2000_8_1_1_1.txt;2000;Border-Opening [grey];--/ 4.24;278918/63306984
+mb_full_2001_8_1_1_1.txt;2001;CORE(s) [green];--/--;0
+mb_full_2001_8_1_1_1.txt;2001;CORE(m) [green];90.19/50.78;858413
+mb_full_2001_8_1_1_1.txt;2001;CORE(l) [green];--/--;0
+mb_full_2001_8_1_1_1.txt;2001;ISLET [brown];0.49/ 0.27;466915
+mb_full_2001_8_1_1_1.txt;2001;PERFORATION [blue];2.82/ 1.59;347407
+mb_full_2001_8_1_1_1.txt;2001;EDGE [black];4.73/ 2.67;648910
+mb_full_2001_8_1_1_1.txt;2001;LOOP [yellow];0.00/ 0.00;0
+mb_full_2001_8_1_1_1.txt;2001;BRIDGE [red];0.37/ 0.21;678325
+mb_full_2001_8_1_1_1.txt;2001;BRANCH [orange];1.40/ 0.79;4035759
+mb_full_2001_8_1_1_1.txt;2001;Background [grey];--/43.69;981945/653097311
+mb_full_2001_8_1_1_1.txt;2001;Missing [white];45.38;132/1242037672
+mb_full_2001_8_1_1_1.txt;2001;Opening [grey];84.71 Integrity;980277/151881488
+mb_full_2001_8_1_1_1.txt;2001;Core-Opening [darkgrey];--/ 6.19;702865/92509576
+mb_full_2001_8_1_1_1.txt;2001;Border-Opening [grey];--/ 3.97;277412/59371912
+mb_full_2002_8_1_1_1.txt;2002;CORE(s) [green];--/--;0
+mb_full_2002_8_1_1_1.txt;2002;CORE(m) [green];90.15/50.56;871190
+mb_full_2002_8_1_1_1.txt;2002;CORE(l) [green];--/--;0
+mb_full_2002_8_1_1_1.txt;2002;ISLET [brown];0.49/ 0.28;465464
+mb_full_2002_8_1_1_1.txt;2002;PERFORATION [blue];2.74/ 1.54;335913
+mb_full_2002_8_1_1_1.txt;2002;EDGE [black];4.84/ 2.72;659122
+mb_full_2002_8_1_1_1.txt;2002;LOOP [yellow];0.00/ 0.00;0
+mb_full_2002_8_1_1_1.txt;2002;BRIDGE [red];0.37/ 0.21;666110
+mb_full_2002_8_1_1_1.txt;2002;BRANCH [orange];1.41/ 0.79;4044814
+mb_full_2002_8_1_1_1.txt;2002;Background [grey];--/43.91;943913/656388182
+mb_full_2002_8_1_1_1.txt;2002;Missing [white];45.38;122/1242037516
+mb_full_2002_8_1_1_1.txt;2002;Opening [grey];86.97 Integrity;942245/125575480
+mb_full_2002_8_1_1_1.txt;2002;Core-Opening [darkgrey];--/ 5.35;668306/80007808
+mb_full_2002_8_1_1_1.txt;2002;Border-Opening [grey];--/ 3.05;273939/45567672
+mb_full_2003_8_1_1_1.txt;2003;CORE(s) [green];--/--;0
+mb_full_2003_8_1_1_1.txt;2003;CORE(m) [green];90.08/50.18;872671
+mb_full_2003_8_1_1_1.txt;2003;CORE(l) [green];--/--;0
+mb_full_2003_8_1_1_1.txt;2003;ISLET [brown];0.50/ 0.28;471798
+mb_full_2003_8_1_1_1.txt;2003;PERFORATION [blue];2.61/ 1.45;329901
+mb_full_2003_8_1_1_1.txt;2003;EDGE [black];5.02/ 2.80;660526
+mb_full_2003_8_1_1_1.txt;2003;LOOP [yellow];0.00/ 0.00;0
+mb_full_2003_8_1_1_1.txt;2003;BRIDGE [red];0.37/ 0.20;656324
+mb_full_2003_8_1_1_1.txt;2003;BRANCH [orange];1.41/ 0.79;4031387
+mb_full_2003_8_1_1_1.txt;2003;Background [grey];--/44.30;923134/662148944
+mb_full_2003_8_1_1_1.txt;2003;Missing [white];45.38;135/1242037620
+mb_full_2003_8_1_1_1.txt;2003;Opening [grey];84.71 Integrity;921416/150277160
+mb_full_2003_8_1_1_1.txt;2003;Core-Opening [darkgrey];--/ 4.52;631222/67582456
+mb_full_2003_8_1_1_1.txt;2003;Border-Opening [grey];--/ 5.53;290194/82694704
+mb_full_2004_8_1_1_1.txt;2004;CORE(s) [green];--/--;0
+mb_full_2004_8_1_1_1.txt;2004;CORE(m) [green];89.91/49.60;884400
+mb_full_2004_8_1_1_1.txt;2004;CORE(l) [green];--/--;0
+mb_full_2004_8_1_1_1.txt;2004;ISLET [brown];0.51/ 0.28;458969
+mb_full_2004_8_1_1_1.txt;2004;PERFORATION [blue];2.70/ 1.49;322310
+mb_full_2004_8_1_1_1.txt;2004;EDGE [black];5.06/ 2.79;672597
+mb_full_2004_8_1_1_1.txt;2004;LOOP [yellow];0.00/ 0.00;0
+mb_full_2004_8_1_1_1.txt;2004;BRIDGE [red];0.37/ 0.21;655680
+mb_full_2004_8_1_1_1.txt;2004;BRANCH [orange];1.44/ 0.80;4073652
+mb_full_2004_8_1_1_1.txt;2004;Background [grey];--/44.83;904028/670097459
+mb_full_2004_8_1_1_1.txt;2004;Missing [white];45.38;137/1242037648
+mb_full_2004_8_1_1_1.txt;2004;Opening [grey];86.54 Integrity;902358/128287388
+mb_full_2004_8_1_1_1.txt;2004;Core-Opening [darkgrey];--/ 5.58;635006/83349432
+mb_full_2004_8_1_1_1.txt;2004;Border-Opening [grey];--/ 3.01;267352/44937956
+mb_full_2005_8_1_1_1.txt;2005;CORE(s) [green];--/--;0
+mb_full_2005_8_1_1_1.txt;2005;CORE(m) [green];89.74/49.03;894989
+mb_full_2005_8_1_1_1.txt;2005;CORE(l) [green];--/--;0
+mb_full_2005_8_1_1_1.txt;2005;ISLET [brown];0.53/ 0.29;467365
+mb_full_2005_8_1_1_1.txt;2005;PERFORATION [blue];2.64/ 1.44;320371
+mb_full_2005_8_1_1_1.txt;2005;EDGE [black];5.25/ 2.87;680461
+mb_full_2005_8_1_1_1.txt;2005;LOOP [yellow];0.00/ 0.00;0
+mb_full_2005_8_1_1_1.txt;2005;BRIDGE [red];0.38/ 0.21;653588
+mb_full_2005_8_1_1_1.txt;2005;BRANCH [orange];1.46/ 0.80;4076344
+mb_full_2005_8_1_1_1.txt;2005;Background [grey];--/45.36;896602/678068571
+mb_full_2005_8_1_1_1.txt;2005;Missing [white];45.38;151/1242037803
+mb_full_2005_8_1_1_1.txt;2005;Opening [grey];87.98 Integrity;895004/111577304
+mb_full_2005_8_1_1_1.txt;2005;Core-Opening [darkgrey];--/ 5.03;614668/75237600
+mb_full_2005_8_1_1_1.txt;2005;Border-Opening [grey];--/ 2.43;280336/36339704
+mb_full_2006_8_1_1_1.txt;2006;CORE(s) [green];--/--;0
+mb_full_2006_8_1_1_1.txt;2006;CORE(m) [green];89.68/48.57;900612
+mb_full_2006_8_1_1_1.txt;2006;CORE(l) [green];--/--;0
+mb_full_2006_8_1_1_1.txt;2006;ISLET [brown];0.53/ 0.29;464987
+mb_full_2006_8_1_1_1.txt;2006;PERFORATION [blue];2.59/ 1.40;312797
+mb_full_2006_8_1_1_1.txt;2006;EDGE [black];5.35/ 2.90;684812
+mb_full_2006_8_1_1_1.txt;2006;LOOP [yellow];0.00/ 0.00;0
+mb_full_2006_8_1_1_1.txt;2006;BRIDGE [red];0.38/ 0.20;651415
+mb_full_2006_8_1_1_1.txt;2006;BRANCH [orange];1.47/ 0.80;4057673
+mb_full_2006_8_1_1_1.txt;2006;Background [grey];--/45.84;878811/685119297
+mb_full_2006_8_1_1_1.txt;2006;Missing [white];45.38;131/1242037603
+mb_full_2006_8_1_1_1.txt;2006;Opening [grey];86.49 Integrity;877193/126433000
+mb_full_2006_8_1_1_1.txt;2006;Core-Opening [darkgrey];--/ 4.50;601187/67293640
+mb_full_2006_8_1_1_1.txt;2006;Border-Opening [grey];--/ 3.96;276006/59139360
+mb_full_2007_8_1_1_1.txt;2007;CORE(s) [green];--/--;0
+mb_full_2007_8_1_1_1.txt;2007;CORE(m) [green];89.50/48.38;918487
+mb_full_2007_8_1_1_1.txt;2007;CORE(l) [green];--/--;0
+mb_full_2007_8_1_1_1.txt;2007;ISLET [brown];0.55/ 0.30;478764
+mb_full_2007_8_1_1_1.txt;2007;PERFORATION [blue];2.57/ 1.39;312562
+mb_full_2007_8_1_1_1.txt;2007;EDGE [black];5.48/ 2.96;696376
+mb_full_2007_8_1_1_1.txt;2007;LOOP [yellow];0.00/ 0.00;0
+mb_full_2007_8_1_1_1.txt;2007;BRIDGE [red];0.39/ 0.21;666528
+mb_full_2007_8_1_1_1.txt;2007;BRANCH [orange];1.51/ 0.82;4138914
+mb_full_2007_8_1_1_1.txt;2007;Background [grey];--/45.94;886640/686737398
+mb_full_2007_8_1_1_1.txt;2007;Missing [white];45.38;142/1242037707
+mb_full_2007_8_1_1_1.txt;2007;Opening [grey];87.60 Integrity;885044/114394364
+mb_full_2007_8_1_1_1.txt;2007;Core-Opening [darkgrey];--/ 4.31;596826/64384804
+mb_full_2007_8_1_1_1.txt;2007;Border-Opening [grey];--/ 3.35;288218/50009560
+mb_full_2008_8_1_1_1.txt;2008;CORE(s) [green];--/--;0
+mb_full_2008_8_1_1_1.txt;2008;CORE(m) [green];89.51/47.53;890548
+mb_full_2008_8_1_1_1.txt;2008;CORE(l) [green];--/--;0
+mb_full_2008_8_1_1_1.txt;2008;ISLET [brown];0.54/ 0.29;464734
+mb_full_2008_8_1_1_1.txt;2008;PERFORATION [blue];2.60/ 1.38;306727
+mb_full_2008_8_1_1_1.txt;2008;EDGE [black];5.48/ 2.91;677309
+mb_full_2008_8_1_1_1.txt;2008;LOOP [yellow];0.00/ 0.00;0
+mb_full_2008_8_1_1_1.txt;2008;BRIDGE [red];0.38/ 0.20;638403
+mb_full_2008_8_1_1_1.txt;2008;BRANCH [orange];1.48/ 0.79;3978482
+mb_full_2008_8_1_1_1.txt;2008;Background [grey];--/46.90;861798/700972462
+mb_full_2008_8_1_1_1.txt;2008;Missing [white];45.38;131/1242037598
+mb_full_2008_8_1_1_1.txt;2008;Opening [grey];87.34 Integrity;860137/115011860
+mb_full_2008_8_1_1_1.txt;2008;Core-Opening [darkgrey];--/ 4.46;582537/66694412
+mb_full_2008_8_1_1_1.txt;2008;Border-Opening [grey];--/ 3.23;277600/48317448
+mb_full_2009_8_1_1_1.txt;2009;CORE(s) [green];--/--;0
+mb_full_2009_8_1_1_1.txt;2009;CORE(m) [green];89.30/46.89;901564
+mb_full_2009_8_1_1_1.txt;2009;CORE(l) [green];--/--;0
+mb_full_2009_8_1_1_1.txt;2009;ISLET [brown];0.56/ 0.29;467954
+mb_full_2009_8_1_1_1.txt;2009;PERFORATION [blue];2.63/ 1.38;302978
+mb_full_2009_8_1_1_1.txt;2009;EDGE [black];5.61/ 2.94;685065
+mb_full_2009_8_1_1_1.txt;2009;LOOP [yellow];0.00/ 0.00;0
+mb_full_2009_8_1_1_1.txt;2009;BRIDGE [red];0.39/ 0.21;641169
+mb_full_2009_8_1_1_1.txt;2009;BRANCH [orange];1.52/ 0.80;4015664
+mb_full_2009_8_1_1_1.txt;2009;Background [grey];--/47.49;851862/709820466
+mb_full_2009_8_1_1_1.txt;2009;Missing [white];45.38;128/1242037604
+mb_full_2009_8_1_1_1.txt;2009;Opening [grey];87.57 Integrity;850208/111378488
+mb_full_2009_8_1_1_1.txt;2009;Core-Opening [darkgrey];--/ 5.05;577493/75414560
+mb_full_2009_8_1_1_1.txt;2009;Border-Opening [grey];--/ 2.41;272715/35963928
+mb_full_2010_8_1_1_1.txt;2010;CORE(s) [green];--/--;0
+mb_full_2010_8_1_1_1.txt;2010;CORE(m) [green];88.89/46.70;935541
+mb_full_2010_8_1_1_1.txt;2010;CORE(l) [green];--/--;0
+mb_full_2010_8_1_1_1.txt;2010;ISLET [brown];0.58/ 0.31;485707
+mb_full_2010_8_1_1_1.txt;2010;PERFORATION [blue];2.78/ 1.46;314796
+mb_full_2010_8_1_1_1.txt;2010;EDGE [black];5.74/ 3.02;707538
+mb_full_2010_8_1_1_1.txt;2010;LOOP [yellow];0.00/ 0.00;0
+mb_full_2010_8_1_1_1.txt;2010;BRIDGE [red];0.42/ 0.22;677020
+mb_full_2010_8_1_1_1.txt;2010;BRANCH [orange];1.59/ 0.83;4190261
+mb_full_2010_8_1_1_1.txt;2010;Background [grey];--/47.46;889896/709429205
+mb_full_2010_8_1_1_1.txt;2010;Missing [white];45.38;135/1242037644
+mb_full_2010_8_1_1_1.txt;2010;Opening [grey];84.16 Integrity;888175/147768980
+mb_full_2010_8_1_1_1.txt;2010;Core-Opening [darkgrey];--/ 5.56;607680/83176328
+mb_full_2010_8_1_1_1.txt;2010;Border-Opening [grey];--/ 4.32;280495/64592652
+mb_full_2011_8_1_1_1.txt;2011;CORE(s) [green];--/--;0
+mb_full_2011_8_1_1_1.txt;2011;CORE(m) [green];88.58/46.69;966030
+mb_full_2011_8_1_1_1.txt;2011;CORE(l) [green];--/--;0
+mb_full_2011_8_1_1_1.txt;2011;ISLET [brown];0.60/ 0.31;503966
+mb_full_2011_8_1_1_1.txt;2011;PERFORATION [blue];3.01/ 1.59;328424
+mb_full_2011_8_1_1_1.txt;2011;EDGE [black];5.72/ 3.02;730261
+mb_full_2011_8_1_1_1.txt;2011;LOOP [yellow];0.00/ 0.00;0
+mb_full_2011_8_1_1_1.txt;2011;BRIDGE [red];0.44/ 0.23;715520
+mb_full_2011_8_1_1_1.txt;2011;BRANCH [orange];1.64/ 0.86;4335944
+mb_full_2011_8_1_1_1.txt;2011;Background [grey];--/47.29;945988/706914704
+mb_full_2011_8_1_1_1.txt;2011;Missing [white];45.38;134/1242037608
+mb_full_2011_8_1_1_1.txt;2011;Opening [grey];83.98 Integrity;944246/150262608
+mb_full_2011_8_1_1_1.txt;2011;Core-Opening [darkgrey];--/ 7.72;659225/115371240
+mb_full_2011_8_1_1_1.txt;2011;Border-Opening [grey];--/ 2.33;285021/34891368
+mb_full_2012_8_1_1_1.txt;2012;CORE(s) [green];--/--;0
+mb_full_2012_8_1_1_1.txt;2012;CORE(m) [green];88.78/46.74;922134
+mb_full_2012_8_1_1_1.txt;2012;CORE(l) [green];--/--;0
+mb_full_2012_8_1_1_1.txt;2012;ISLET [brown];0.55/ 0.29;442699
+mb_full_2012_8_1_1_1.txt;2012;PERFORATION [blue];3.09/ 1.62;332988
+mb_full_2012_8_1_1_1.txt;2012;EDGE [black];5.62/ 2.96;704963
+mb_full_2012_8_1_1_1.txt;2012;LOOP [yellow];0.00/ 0.00;0
+mb_full_2012_8_1_1_1.txt;2012;BRIDGE [red];0.41/ 0.21;647692
+mb_full_2012_8_1_1_1.txt;2012;BRANCH [orange];1.57/ 0.82;4159290
+mb_full_2012_8_1_1_1.txt;2012;Background [grey];--/47.35;867095/707817850
+mb_full_2012_8_1_1_1.txt;2012;Missing [white];45.38;130/1242037605
+mb_full_2012_8_1_1_1.txt;2012;Opening [grey];83.87 Integrity;865442/151368720
+mb_full_2012_8_1_1_1.txt;2012;Core-Opening [darkgrey];--/ 6.65;642003/99438064
+mb_full_2012_8_1_1_1.txt;2012;Border-Opening [grey];--/ 3.47;223439/51930656
+mb_full_2013_8_1_1_1.txt;2013;CORE(s) [green];--/--;0
+mb_full_2013_8_1_1_1.txt;2013;CORE(m) [green];88.59/46.50;934715
+mb_full_2013_8_1_1_1.txt;2013;CORE(l) [green];--/--;0
+mb_full_2013_8_1_1_1.txt;2013;ISLET [brown];0.56/ 0.29;449177
+mb_full_2013_8_1_1_1.txt;2013;PERFORATION [blue];3.05/ 1.60;331280
+mb_full_2013_8_1_1_1.txt;2013;EDGE [black];5.79/ 3.04;710407
+mb_full_2013_8_1_1_1.txt;2013;LOOP [yellow];0.00/ 0.00;0
+mb_full_2013_8_1_1_1.txt;2013;BRIDGE [red];0.42/ 0.22;664376
+mb_full_2013_8_1_1_1.txt;2013;BRANCH [orange];1.59/ 0.84;4195217
+mb_full_2013_8_1_1_1.txt;2013;Background [grey];--/47.51;885183/710198367
+mb_full_2013_8_1_1_1.txt;2013;Missing [white];45.38;132/1242037628
+mb_full_2013_8_1_1_1.txt;2013;Opening [grey];83.35 Integrity;883463/156755392
+mb_full_2013_8_1_1_1.txt;2013;Core-Opening [darkgrey];--/ 6.67;635929/99649304
+mb_full_2013_8_1_1_1.txt;2013;Border-Opening [grey];--/ 3.82;247534/57106088
+mb_full_2014_8_1_1_1.txt;2014;CORE(s) [green];--/--;0
+mb_full_2014_8_1_1_1.txt;2014;CORE(m) [green];87.68/46.11;1048702
+mb_full_2014_8_1_1_1.txt;2014;CORE(l) [green];--/--;0
+mb_full_2014_8_1_1_1.txt;2014;ISLET [brown];0.66/ 0.35;534566
+mb_full_2014_8_1_1_1.txt;2014;PERFORATION [blue];3.09/ 1.63;341658
+mb_full_2014_8_1_1_1.txt;2014;EDGE [black];6.29/ 3.31;786218
+mb_full_2014_8_1_1_1.txt;2014;LOOP [yellow];0.00/ 0.00;0
+mb_full_2014_8_1_1_1.txt;2014;BRIDGE [red];0.50/ 0.26;781922
+mb_full_2014_8_1_1_1.txt;2014;BRANCH [orange];1.78/ 0.94;4644695
+mb_full_2014_8_1_1_1.txt;2014;Background [grey];--/47.41;1005089/708582463
+mb_full_2014_8_1_1_1.txt;2014;Missing [white];45.38;132/1242037686
+mb_full_2014_8_1_1_1.txt;2014;Opening [grey];83.15 Integrity;1003180/159292212
+mb_full_2014_8_1_1_1.txt;2014;Core-Opening [darkgrey];--/ 6.59;666321/98558744
+mb_full_2014_8_1_1_1.txt;2014;Border-Opening [grey];--/ 4.06;336859/60733468
+mb_full_2015_8_1_1_1.txt;2015;CORE(s) [green];--/--;0
+mb_full_2015_8_1_1_1.txt;2015;CORE(m) [green];87.54/45.99;1067172
+mb_full_2015_8_1_1_1.txt;2015;CORE(l) [green];--/--;0
+mb_full_2015_8_1_1_1.txt;2015;ISLET [brown];0.67/ 0.35;543784
+mb_full_2015_8_1_1_1.txt;2015;PERFORATION [blue];3.11/ 1.64;344575
+mb_full_2015_8_1_1_1.txt;2015;EDGE [black];6.37/ 3.35;801099
+mb_full_2015_8_1_1_1.txt;2015;LOOP [yellow];0.00/ 0.00;0
+mb_full_2015_8_1_1_1.txt;2015;BRIDGE [red];0.51/ 0.27;788702
+mb_full_2015_8_1_1_1.txt;2015;BRANCH [orange];1.80/ 0.95;4684850
+mb_full_2015_8_1_1_1.txt;2015;Background [grey];--/47.47;1009455/709481090
+mb_full_2015_8_1_1_1.txt;2015;Missing [white];45.38;130/1242037636
+mb_full_2015_8_1_1_1.txt;2015;Opening [grey];82.56 Integrity;1007636/165923156
+mb_full_2015_8_1_1_1.txt;2015;Core-Opening [darkgrey];--/ 6.63;684530/99104376
+mb_full_2015_8_1_1_1.txt;2015;Border-Opening [grey];--/ 4.47;323106/66818780
+mb_full_2016_8_1_1_1.txt;2016;CORE(s) [green];--/--;0
+mb_full_2016_8_1_1_1.txt;2016;CORE(m) [green];87.57/45.71;1050752
+mb_full_2016_8_1_1_1.txt;2016;CORE(l) [green];--/--;0
+mb_full_2016_8_1_1_1.txt;2016;ISLET [brown];0.66/ 0.34;523141
+mb_full_2016_8_1_1_1.txt;2016;PERFORATION [blue];3.20/ 1.67;348390
+mb_full_2016_8_1_1_1.txt;2016;EDGE [black];6.27/ 3.28;789227
+mb_full_2016_8_1_1_1.txt;2016;LOOP [yellow];0.00/ 0.00;0
+mb_full_2016_8_1_1_1.txt;2016;BRIDGE [red];0.51/ 0.27;783600
+mb_full_2016_8_1_1_1.txt;2016;BRANCH [orange];1.79/ 0.93;4608559
+mb_full_2016_8_1_1_1.txt;2016;Background [grey];--/47.80;1011973/714455253
+mb_full_2016_8_1_1_1.txt;2016;Missing [white];45.38;139/1242037694
+mb_full_2016_8_1_1_1.txt;2016;Opening [grey];82.36 Integrity;1010142/167136608
+mb_full_2016_8_1_1_1.txt;2016;Core-Opening [darkgrey];--/ 8.02;693014/119848448
+mb_full_2016_8_1_1_1.txt;2016;Border-Opening [grey];--/ 3.16;317128/47288160
+mb_full_2017_8_1_1_1.txt;2017;CORE(s) [green];--/--;0
+mb_full_2017_8_1_1_1.txt;2017;CORE(m) [green];87.47/45.27;1051537
+mb_full_2017_8_1_1_1.txt;2017;CORE(l) [green];--/--;0
+mb_full_2017_8_1_1_1.txt;2017;ISLET [brown];0.67/ 0.35;529439
+mb_full_2017_8_1_1_1.txt;2017;PERFORATION [blue];3.14/ 1.62;346982
+mb_full_2017_8_1_1_1.txt;2017;EDGE [black];6.42/ 3.32;788098
+mb_full_2017_8_1_1_1.txt;2017;LOOP [yellow];0.00/ 0.00;0
+mb_full_2017_8_1_1_1.txt;2017;BRIDGE [red];0.51/ 0.27;782449
+mb_full_2017_8_1_1_1.txt;2017;BRANCH [orange];1.80/ 0.93;4570730
+mb_full_2017_8_1_1_1.txt;2017;Background [grey];--/48.25;1010991/721181508
+mb_full_2017_8_1_1_1.txt;2017;Missing [white];45.38;136/1242037667
+mb_full_2017_8_1_1_1.txt;2017;Opening [grey];81.59 Integrity;1009133/174494520
+mb_full_2017_8_1_1_1.txt;2017;Core-Opening [darkgrey];--/ 6.56;679011/98088992
+mb_full_2017_8_1_1_1.txt;2017;Border-Opening [grey];--/ 5.11;330122/76405528
+mb_full_2018_8_1_1_1.txt;2018;CORE(s) [green];--/--;0
+mb_full_2018_8_1_1_1.txt;2018;CORE(m) [green];87.35/45.02;1060876
+mb_full_2018_8_1_1_1.txt;2018;CORE(l) [green];--/--;0
+mb_full_2018_8_1_1_1.txt;2018;ISLET [brown];0.69/ 0.35;549473
+mb_full_2018_8_1_1_1.txt;2018;PERFORATION [blue];3.08/ 1.59;342711
+mb_full_2018_8_1_1_1.txt;2018;EDGE [black];6.54/ 3.37;794040
+mb_full_2018_8_1_1_1.txt;2018;LOOP [yellow];0.00/ 0.00;0
+mb_full_2018_8_1_1_1.txt;2018;BRIDGE [red];0.53/ 0.27;796310
+mb_full_2018_8_1_1_1.txt;2018;BRANCH [orange];1.82/ 0.94;4608561
+mb_full_2018_8_1_1_1.txt;2018;Background [grey];--/48.46;1022521/724284533
+mb_full_2018_8_1_1_1.txt;2018;Missing [white];45.38;129/1242037604
+mb_full_2018_8_1_1_1.txt;2018;Opening [grey];81.89 Integrity;1020657/170330096
+mb_full_2018_8_1_1_1.txt;2018;Core-Opening [darkgrey];--/ 5.60;672062/83635480
+mb_full_2018_8_1_1_1.txt;2018;Border-Opening [grey];--/ 5.80;348595/86694616
+mb_full_2019_8_1_1_1.txt;2019;CORE(s) [green];--/--;0
+mb_full_2019_8_1_1_1.txt;2019;CORE(m) [green];86.91/43.70;1099762
+mb_full_2019_8_1_1_1.txt;2019;CORE(l) [green];--/--;0
+mb_full_2019_8_1_1_1.txt;2019;ISLET [brown];0.74/ 0.37;601597
+mb_full_2019_8_1_1_1.txt;2019;PERFORATION [blue];3.15/ 1.58;341425
+mb_full_2019_8_1_1_1.txt;2019;EDGE [black];6.72/ 3.38;822850
+mb_full_2019_8_1_1_1.txt;2019;LOOP [yellow];0.00/ 0.00;0
+mb_full_2019_8_1_1_1.txt;2019;BRIDGE [red];0.57/ 0.29;847046
+mb_full_2019_8_1_1_1.txt;2019;BRANCH [orange];1.91/ 0.96;4684118
+mb_full_2019_8_1_1_1.txt;2019;Background [grey];--/49.72;1071904/743133658
+mb_full_2019_8_1_1_1.txt;2019;Missing [white];45.38;127/1242037575
+mb_full_2019_8_1_1_1.txt;2019;Opening [grey];83.31 Integrity;1070130/150612168
+mb_full_2019_8_1_1_1.txt;2019;Core-Opening [darkgrey];--/ 5.74;702872/85786568
+mb_full_2019_8_1_1_1.txt;2019;Border-Opening [grey];--/ 4.34;367258/64825600
